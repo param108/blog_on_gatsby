@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tea&Company`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Paramananda Ponnaiyan`,
+      summary: `Who loves a good chat and sharing Gyaan`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Technology & Psychology`,
+    siteUrl: `https://blog.TeaAndCompany.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `param108`,
     },
   },
   plugins: [
